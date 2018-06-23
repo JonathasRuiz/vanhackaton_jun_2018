@@ -1,10 +1,12 @@
 import React, { Component } from 'react';
 
+import News from './../news/news';
+
 class App extends Component {
     render() {
         return (
             <div>
-                This is App
+                <News />
             </div>
         );
     }
