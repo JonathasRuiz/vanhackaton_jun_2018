@@ -1,0 +1,25 @@
+.logo_wrapper{
+    float: left;
+    display: inline-block;
+
+    line-height: 40px;
+}
+.title_wrapper{
+    float: left;
+    display: inline-block;
+    
+    line-height: 40px;
+}
+
+.header_wrapper{
+    /* background: yellow; */
+    width: 100%;
+    display: inline-block;
+    padding:10px;
+}
+
+.logo{
+    max-height: 60px;
+    max-width: 60px;
+    padding:5px;
+}

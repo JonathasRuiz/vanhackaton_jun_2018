@@ -1,0 +1,42 @@
+.team_flag{
+    max-width: 30px;
+    max-height: 30px;
+}
+
+.team_wrapper{
+    display: inline-block;
+    padding:10px;
+    width: 40%;
+}
+
+.team_wrapper span{
+    overflow: hidden;
+}
+
+.card_wrapper{
+    width: 100%;
+    text-align: center;
+    padding: 20px 5px 20px 5px;
+    border:solid 1px #d5d5d5;
+    margin: 2px 5px 5px 5px;
+}
+
+.wrapper{
+    width:100%;
+    max-width: 100%;
+}
+
+.goals{
+    font-size: 30px;
+    margin: 0px 5px 0px 5px;
+}
+
+.country{
+    display: inline-block;
+    width: 50px;
+    max-height: 30px;
+    height: 30px;
+    padding: 10px;
+    overflow: hidden;
+    line-height: 50px;
+}

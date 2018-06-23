@@ -1,0 +1,14 @@
+.wrapper{
+    width:95%;
+}
+
+.app_today_matches{
+    font-size: 30px;
+    
+    margin-bottom: 5px;
+}
+
+.title_wrapper{
+    text-align: center;
+    padding: 20px 0px 20px 0px;
+}
